@@ -1,0 +1,62 @@
+Design Document
+
+
+Project:
+Author:			
+Date:		
+Revision:
+
+
+Overview
+Rationale for signing the contract: Business goals and objectives
+
+
+
+Context, stakeholders
+
+
+
+Terminology
+
+
+
+
+Requirements
+“Must haves”: Important requirements which must be covered
+
+
+
+Cross-cutting concerns: Which aspects and constraints must be considered (e.g. regulatory aspects, such as data protection)
+
+
+
+Timeline
+
+
+
+
+Proposed solution
+Principles
+
+
+
+Required input
+
+
+
+Implementation details
+
+
+
+Risks and mitigation measures
+
+
+
+
+Alternative solutions
+Which alternatives have been considered? Why were these alternatives rejected?
+
+
+
+
+For more information on how to use design documents for legal contracts, please read the article “Design documents for contracts” (https://jandinter.net/writing/design_documents_for_contracts). CC BY 4.0 Jan Dinter
