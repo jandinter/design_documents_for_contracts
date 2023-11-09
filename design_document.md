@@ -1,13 +1,14 @@
 # Design Document
 
-
 Project:
-Author:			
-Date:		
+Author:
+Date:
 Revision:
 
+---
 
 ## Overview
+
 ### Rationale for signing the contract: Business goals and objectives
 
 
@@ -20,9 +21,13 @@ Revision:
 
 
 
-
 ## Requirements
-### “Must haves”: Important requirements which must be covered
+
+### "Must haves": Important requirements which must be covered
+
+- Main obligations of the parties
+- Risks which need to be mitigated or allocated
+- Potential conflicts and how to address them
 
 
 
@@ -34,8 +39,8 @@ Revision:
 
 
 
-
 ## Proposed solution
+
 ### Principles
 
 
@@ -52,12 +57,12 @@ Revision:
 
 
 
-
 ## Alternative solutions
-### Which alternatives have been considered? Why were these alternatives rejected?
+
+Which alternatives have been considered? Why were these alternatives rejected?
 
 
 
 ---
 
-For more information on how to use design documents for legal contracts, please read the article [“Design documents for contracts”](https://jandinter.net/writing/design_documents_for_contracts). CC BY 4.0 Jan Dinter
+For more information on how to use design documents for legal contracts, please read the article [Design documents for contracts](https://jandinter.net/writing/design_documents_for_contracts). CC BY 4.0 Jan Dinter
